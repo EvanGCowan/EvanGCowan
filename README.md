@@ -1,6 +1,6 @@
-<h1>Hello, I'm Evan, an <a href="https://www.linkedin.com/in/evan-g-cowan">IT & Cybersecurity Professional</h1>
+<h1>Evan Cowan<br/><a href="https://www.linkedin.com/in/evan-g-cowan">IT & Cybersecurity Professional</a></h1>
 
-<h2> Information Technology & Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/evangcowan/osticket-prereqs)
