@@ -10,5 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/evangcowan/configure-ad)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/evangcowan/azure-network-protocols)
 
-<h2>Connect with me:
-<img alt="evangcowan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="evangcowan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/evan-g-cowan
