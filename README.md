@@ -1,4 +1,4 @@
-<h1>Hello, I'm Evan, an <a href="https:www.linkedin.com/in/evan-g-cowan">IT & Cybersecurity Professional</h1>
+<h1>Hello, I'm Evan, an <a href="https://www.linkedin.com/in/evan-g-cowan">IT & Cybersecurity Professional</h1>
 
 <h2> Information Technology & Cybersecurity Projects:</h2>
 
