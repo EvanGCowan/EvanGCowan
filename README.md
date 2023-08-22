@@ -3,8 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/evangcowan/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/evangcowan/post-install-config)
+
   - [osTicket: Ticket Lifecycle Examples](https://github.com/evangcowan/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Microsoft Azure Virtual Machines](https://github.com/evangcowan/configure-ad)
