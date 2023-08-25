@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/evangcowan/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Tutorial](https://github.com/evangcowan/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Microsoft Azure Virtual Machines](https://github.com/evangcowan/configure-ad)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/evangcowan/azure-network-protocols)
